@@ -23,7 +23,7 @@
     "no-shadowed-variable": true,
     "no-switch-case-fall-through": true,
     "no-unreachable": true,
-    "no-unused-expression": true,
+    "no-unused-expression": [true, "allow-fast-null-checks"],
     "no_unused-variable": [
         true
     ],
